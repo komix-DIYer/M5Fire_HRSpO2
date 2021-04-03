@@ -30,7 +30,7 @@ char pass[] = "PASSWORD";
 - コンパクトゆえに携帯/ウェアラブル機器として運用可
 
 # Licence
-GPLv3
+[GPLv3](https://github.com/komix-DIYer/M5Fire_HRSpO2/blob/main/LICENSE)
 
 # Author
 komix
