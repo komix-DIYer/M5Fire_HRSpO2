@@ -29,3 +29,8 @@ char pass[] = "PASSWORD";
 - バッテリ駆動により M5Core とセンサユニットだけで運用可
 - コンパクトゆえに携帯/ウェアラブル機器として運用可
 
+# Licence
+GPLv3
+
+# Author
+komix
