@@ -2,10 +2,10 @@
 M5Stack FIREで動作検証済み
  
 # Requirements
-- Mini Heart Rate Unit (MAX30100) Pulse Oximeter<br>
-  https://m5stack-store.myshopify.com/products/mini-heart-unit
-- oxullo/Arduino-MAX30100 library<br>
-  https://github.com/oxullo/Arduino-MAX30100
+- [Mini Heart Rate Unit (MAX30100) Pulse Oximeter](https://m5stack-store.myshopify.com/products/mini-heart-unit)
+- [oxullo/Arduino-MAX30100 library](https://github.com/oxullo/Arduino-MAX30100)
+- Wi-FiのSSIDとパスワードをinoファイルに記入
+- microSDカード（16GB以下）
 
 # 主な機能
 - Wi-Fi 経由で日時を取得して表示
