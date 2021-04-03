@@ -1,18 +1,7 @@
 # M5Fire_HRSpO2
 M5Stack FIREで動作検証済み
- 
-# Requirements
-- [Mini Heart Rate Unit (MAX30100) Pulse Oximeter](https://m5stack-store.myshopify.com/products/mini-heart-unit)
-- [oxullo/Arduino-MAX30100 library](https://github.com/oxullo/Arduino-MAX30100)
-- Wi-FiのSSIDとパスワードをinoファイルに記入
-```
-// Wi-Fi
-char ssid[] = "SSID";
-char pass[] = "PASSWORD";
-```
-- microSDカード（16GB以下）
 
-# 主な機能
+# Main functions
 - Wi-Fi 経由で日時を取得して表示
 - HR/SpO2 を数値で表示
   - 取得周期は現状 10 [Hz]　（高速化可）
@@ -28,6 +17,17 @@ char pass[] = "PASSWORD";
 - GUI でのエラー表示（Wi-Fi 未接続，SD カード未挿入，センサ認識失敗など）
 - バッテリ駆動により M5Core とセンサユニットだけで運用可
 - コンパクトゆえに携帯/ウェアラブル機器として運用可
+
+# Requirements
+- [Mini Heart Rate Unit (MAX30100) Pulse Oximeter](https://m5stack-store.myshopify.com/products/mini-heart-unit)
+- [oxullo/Arduino-MAX30100 library](https://github.com/oxullo/Arduino-MAX30100)
+- Wi-FiのSSIDとパスワードをinoファイルに記入
+```
+// Wi-Fi
+char ssid[] = "SSID";
+char pass[] = "PASSWORD";
+```
+- microSDカード（16GB以下）
 
 # Licence
 [GPLv3](https://github.com/komix-DIYer/M5Fire_HRSpO2/blob/main/LICENSE)
