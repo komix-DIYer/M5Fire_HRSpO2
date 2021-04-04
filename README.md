@@ -1,4 +1,5 @@
 # M5Fire_HRSpO2
+M5Stack + Mini Heart Rate Unit (MAX30100)で心拍数と酸素飽和度を計測/描画/記録  
 M5Stack FIREで動作検証済み
 
 # Main functions
