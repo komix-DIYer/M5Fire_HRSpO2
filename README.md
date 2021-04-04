@@ -32,6 +32,9 @@ char pass[] = "PASSWORD";
 ```
 - microSDカード（16GB以下）
 
+# ToDo
+- センサ使用とビープ音が干渉（現在はビープ音を無効化）
+
 # Licence
 [GPLv3](https://github.com/komix-DIYer/M5Fire_HRSpO2/blob/main/LICENSE)
 
