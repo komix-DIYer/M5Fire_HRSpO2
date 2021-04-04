@@ -20,7 +20,8 @@ M5Stack FIREで動作検証済み
 - コンパクトゆえに携帯/ウェアラブル機器として運用可
 
 # Requirements
-- [Mini Heart Rate Unit (MAX30100) Pulse Oximeter](https://m5stack-store.myshopify.com/products/mini-heart-unit)
+- [M5Stack用心拍センサユニット](https://www.switch-science.com/catalog/5695/)  
+[Mini Heart Rate Unit (MAX30100) Pulse Oximeter](https://m5stack-store.myshopify.com/products/mini-heart-unit)
 - [oxullo/Arduino-MAX30100 library](https://github.com/oxullo/Arduino-MAX30100)
 - Wi-FiのSSIDとパスワードをinoファイルに記入
 ```
