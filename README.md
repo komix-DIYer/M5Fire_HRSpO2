@@ -23,6 +23,8 @@ M5Stack FIREで動作検証済み
 - バッテリ駆動により M5Core とセンサユニットだけで運用可
 - コンパクトゆえに携帯/ウェアラブル機器として運用可
 
+<img src="https://user-images.githubusercontent.com/25588291/113539041-c21c9780-9617-11eb-80d9-e40c6f1cfd19.jpg" width="600">
+
 # Requirements
 - [M5Stack用心拍センサユニット](https://www.switch-science.com/catalog/5695/)  
 [Mini Heart Rate Unit (MAX30100) Pulse Oximeter](https://m5stack-store.myshopify.com/products/mini-heart-unit)
