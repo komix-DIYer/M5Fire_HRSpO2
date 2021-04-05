@@ -36,6 +36,7 @@ char ssid[] = "SSID";
 char pass[] = "PASSWORD";
 ```
 - microSDカード（16GB以下）
+- [「M5Stack用心拍センサユニット」指クランプ化キット（STLデータ） - First DIY：まずは何か作ってみる - BOOTH](https://first-diy.booth.pm/items/2868138)（オプション）
 
 # ToDo
 - センサ使用とビープ音が干渉（現在はビープ音を無効化）
