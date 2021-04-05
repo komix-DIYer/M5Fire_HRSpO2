@@ -4,6 +4,8 @@ M5Stack FIREで動作検証済み
 
 <img src="https://user-images.githubusercontent.com/25588291/113534902-e626ab80-960c-11eb-86e4-5cf3dbee893a.jpg" width="720">
 
+[![](https://img.youtube.com/vi/01Xj65EARtI/0.jpg)](https://www.youtube.com/watch?v=01Xj65EARtI)
+
 # Main functions
 - Wi-Fi 経由で日時を取得して表示
 - HR/SpO2 を数値で表示
