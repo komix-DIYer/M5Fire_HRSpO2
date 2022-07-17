@@ -2,7 +2,8 @@
 M5Stack + Mini Heart Rate Unit (MAX30100)で心拍数(HR)と酸素飽和度(SpO2)を計測/描画/記録  
 M5Stack FIREで動作検証済み  
 ※計測の信頼度はセンサとライブラリの品質そのもの（本コードによる補正は無し）
-
+  
+ 関連記事：[DIYer - パルスオキシメータ](http://twinklesmile.blog42.fc2.com/?q=%E3%83%91%E3%83%AB%E3%82%B9%E3%82%AA%E3%82%AD%E3%82%B7%E3%83%A1%E3%83%BC%E3%82%BF&charset=utf-8)  
 [YouTube  
 <img src="https://user-images.githubusercontent.com/25588291/113534902-e626ab80-960c-11eb-86e4-5cf3dbee893a.jpg" width="600">](https://www.youtube.com/watch?v=01Xj65EARtI)
 
